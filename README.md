@@ -1,5 +1,5 @@
-# Webpack-starter
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+# To do app
+Este proyecto permite gregar una lista de tareas a realizar, seleccionar las completadas, eliminarlas y los datos son persistentes al ocupar localStorage.
 ### Notas: 
 Recuerden recontruir los modulos de node
 ```
